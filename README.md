@@ -1,1 +1,1 @@
-# confluence-trash-purge
+purges trash in ALL spaces
